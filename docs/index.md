@@ -8,7 +8,7 @@ hero:
   tagline: ✨每个业务模块都可以为独立插件,支持任意环境动态插拔
   image:
     src: '/logo.png'
-    alt: Theme
+    alt: PerfreeBase
   actions:
     - theme: brand
       text: 快速开始
