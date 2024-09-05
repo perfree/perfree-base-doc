@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Perfree-Base"
   text: "一款支持前后端插件化开发的管理后台模板"
-  tagline: ✨每个业务模块都是独立插件,生产环境可动态插拔
+  tagline: ✨每个业务模块都可以为独立插件,支持任意环境动态插拔
   image:
     src: '/logo.png'
     alt: Theme
@@ -15,7 +15,7 @@ hero:
       link: /useDoc
     - theme: alt
       text: 在线体验
-      link: https://base-demo.perfree.org.cn
+      link: http://base-demo.perfree.org.cn
     - theme: alt
       text: 插件仓库
       link: /pluginStore
