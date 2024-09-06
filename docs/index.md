@@ -17,8 +17,8 @@ hero:
       text: 在线体验
       link: http://base-demo.perfree.org.cn
     - theme: alt
-      text: 插件仓库
-      link: /pluginStore
+      text: 源码地址
+      link: https://github.com/perfree/perfree-base
 
 features:
   - icon: 📝
